@@ -106,8 +106,3 @@ npm run start-dev
 **Backend:**[http://localhost:8000](http://localhost:8000)
 
 **Frontend:**[http://localhost:5173](http://localhost:5173)
-### Frontend Contributor
-[Vedant Pandey](https://github.com/vedant2111031)
-### Backend Contributor
-[Aanand Rai](https://github.com/Aanandrai)
-
